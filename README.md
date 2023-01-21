@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/tools-banner.png" alt="Next.js and TypeScript">
+  <img src="screenshot-starter-uvacoderportfolio.png" alt="Next.js and TypeScript">
 </p>
 
 <p align="center">
