@@ -87,7 +87,7 @@ export default function Header({ items, children }: MainNavProps) {
             />
           </nav> */}
           <a
-            href="https://github.com/uvacoder/starter-uvacoderportfolio"
+            href="https://github.com/uvacoder/starter-uvacoderportfolio-4303"
             target="_blank"
             rel="noreferrer"
             className="group rounded bg-gray-1000 p-2 transition-colors duration-100 ease-linear hover:bg-gray-1001"
