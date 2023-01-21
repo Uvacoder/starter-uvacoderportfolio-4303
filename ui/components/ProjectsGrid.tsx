@@ -2,22 +2,22 @@
 import { CardProps } from "types"
 import ProjectCard from "./ProjectCard"
 
-import islanderImage from "../../public/assets/island.jpg"
-import mountyImage from "../../public/assets/mountain.jpg"
+import islanderImage from "../../public/assets/mylilpony-1.jpg"
+import mountyImage from "../../public/assets/mylilpony-2.jpg"
 import planetImage from "../../public/assets/planet.jpg"
 
 const projects: CardProps[] = [
   {
-    title: "Planetaria",
+    title: "Mylilpony-1",
     description:
       "Creating technology to empower civilians to explore space on their own terms.",
     src: planetImage,
     alt: "Planetaria App",
-    githubUrl: "https://github.com/lucky-chap/kaminari",
-    liveUrl: "https://github.com/lucky-chap/kaminari",
+    githubUrl: "https://github.com/uvacoder/uvaphotography",
+    liveUrl: "https://uvaphotographs",
   },
   {
-    title: "Islander",
+    title: "Mylilpony-2",
     description: "Rest and abide with island freaks like yourself. Too scared?",
     src: islanderImage,
     alt: "Islander App",
